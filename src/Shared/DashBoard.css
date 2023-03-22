@@ -1,0 +1,114 @@
+.left-side {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 249px;
+    height: 1153px;
+    left: 0px;
+    top: 0px;
+
+    background: #FFFFFF;
+    border-right: 1px solid #F3F3F3;
+}
+
+.navImg {
+
+    position: absolute;
+    width: 159.06px;
+    height: 45.82px;
+    left: 34px;
+    top: 31px;
+
+}
+
+.navImg2 {
+
+    position: absolute;
+    width: 105px;
+    height: 17px;
+    left: 35px;
+    top: 159px;
+
+}
+
+.navImg3 {
+
+    position: absolute;
+    width: 216px;
+    height: 50px;
+    left: 17px;
+    top: 200px;
+
+}
+
+.navImg4 {
+
+    position: absolute;
+    width: 69px;
+    height: 32.53px;
+    left: 34px;
+    top: 274px;
+}
+
+.navImg5 {
+    position: absolute;
+    width: 1118px;
+    height: 44px;
+    left: 287px;
+    top: 195px;
+
+}
+
+.pages {
+    position: absolute;
+    width: 43px;
+    height: 15px;
+    left: 34px;
+    top: 117px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+    letter-spacing: 0.07em;
+
+    color: #B0B7C3;
+}
+
+.searchButton {
+    position: absolute;
+    width: 539px;
+    height: 54px;
+    left: 287px;
+    top: 23px;
+}
+
+.userList {
+    position: absolute;
+    width: 111px;
+    height: 28px;
+    left: 287px;
+    top: 125px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 28px;
+    /* identical to box height */
+
+
+    color: #323B4B;
+
+}
+
+.userId {
+    position: absolute;
+    width: 1016px;
+    height: 60px;
+    left: 335px;
+    top: 253px;
+}

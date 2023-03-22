@@ -1,0 +1,101 @@
+.signIn {
+
+    position: absolute;
+    width: 87px;
+    height: 31px;
+    left: 677px;
+    top: 194px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #323B4B;
+
+}
+
+.welcomeText {
+    position: absolute;
+    width: 311px;
+    height: 22px;
+    left: 565px;
+    top: 244px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #8A94A6;
+
+}
+
+.rememberMe {
+
+
+    position: absolute;
+    width: 111px;
+    height: 19px;
+    left: 495px;
+    top: 623px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #B0B7C3;
+
+
+}
+
+.conditionLogin {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 450px;
+    top: 618px;
+
+    background: #EDEFF1;
+    border-radius: 8px;
+}
+
+.buttonSignIn {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 540px;
+    height: 58px;
+    left: 450px;
+    top: 677px;
+
+    background: #377DFF;
+    border: 1px solid #377DFF;
+    border-radius: 16px;
+}
+
+.dontHave {
+
+    position: absolute;
+    width: 271px;
+    height: 19px;
+    left: 584px;
+    top: 770px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+
+    color: #B0B7C3;
+}

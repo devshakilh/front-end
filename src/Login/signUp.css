@@ -1,0 +1,287 @@
+.getting {
+    position: absolute;
+    width: 197px;
+    height: 31px;
+    left: 622px;
+    top: 194px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+
+    color: #323B4B;
+
+}
+
+.createAn {
+
+    position: absolute;
+    width: 266px;
+    height: 22px;
+    left: 587px;
+    top: 244px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+
+    color: #8A94A6;
+
+}
+
+.google {
+    position: absolute;
+    width: 255px;
+    height: 58px;
+    left: 450px;
+    top: 296px;
+
+    background: #F0F5FA;
+    border-radius: 16px
+}
+
+.google text {
+    position: absolute;
+    width: 156px;
+    height: 19px;
+    left: 514px;
+    top: 315px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #8A94A6;
+
+}
+
+.iconGoogle {
+
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 478px;
+    top: 312px;
+
+}
+
+.apple text {
+
+    position: absolute;
+    width: 166px;
+    height: 19px;
+    left: 797px;
+    top: 315px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #8A94A6;
+}
+
+.apple {
+
+    position: absolute;
+    width: 255px;
+    height: 58px;
+    left: 735px;
+    top: 296px;
+
+    background: #F0F5FA;
+    border-radius: 16px;
+}
+
+.or {
+
+    position: absolute;
+    width: 540px;
+    height: 24px;
+    left: 450px;
+    top: 384px;
+
+}
+
+.inEmail {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 540px;
+    height: 58px;
+    left: 450px;
+    top: 438px;
+
+    background: #FFFFFF;
+    border: 1px solid #FF5630;
+    box-shadow: 0px 6px 8px rgba(255, 86, 48, 0.1);
+    border-radius: 16px;
+}
+
+.error {
+    position: absolute;
+    width: 231px;
+    height: 17px;
+    left: 450px;
+    top: 512px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 17px;
+    /* identical to box height */
+
+
+    color: #FF5630;
+
+}
+
+.conditions {
+
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 450px;
+    top: 750px;
+
+    background: #EDEFF1;
+    border-radius: 8px;
+}
+
+.inName {
+
+    position: absolute;
+    width: 540px;
+    height: 58px;
+    left: 450px;
+    top: 545px;
+}
+
+.inPassword {
+
+    position: absolute;
+    width: 540px;
+    height: 58px;
+    left: 364px;
+    top: 631px;
+
+
+}
+
+.passwordBBorder {
+    position: absolute;
+    width: 68px;
+    height: 4px;
+    left: 468px;
+    top: 716px;
+
+    background: #38CB89;
+    border-radius: 2px;
+}
+
+.passwordBBorder2 {
+
+    position: absolute;
+    width: 68px;
+    height: 4px;
+    left: 555px;
+    top: 716px;
+
+    background: #38CB89;
+    border-radius: 2px;
+}
+
+.passwordBBorder3 {
+
+    position: absolute;
+    width: 68px;
+    height: 4px;
+    left: 642px;
+    top: 716px;
+
+    background: #38CB89;
+    border-radius: 2px;
+}
+
+.passwordBBorder4 {
+    position: absolute;
+    width: 68px;
+    height: 4px;
+    left: 729px;
+    top: 716px;
+
+    background: #38CB89;
+    border-radius: 2px;
+}
+
+.passwordBBorder5 {
+    position: absolute;
+    width: 68px;
+    height: 4px;
+    left: 816px;
+    top: 716px;
+
+    background: #38CB89;
+    border-radius: 2px;
+}
+
+.buttonTopText {
+    position: absolute;
+    width: 255px;
+    height: 19px;
+    left: 495px;
+    top: 755px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #B0B7C3;
+
+}
+
+.buttonSignUp {
+
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 540px;
+    height: 58px;
+    left: 450px;
+    top: 809px;
+
+    background: #377DFF;
+    border: 1px solid #377DFF;
+    border-radius: 16px;
+
+}
+
+.alReady {
+    position: absolute;
+    width: 253px;
+    height: 19px;
+    left: 593px;
+    top: 902px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #B0B7C3;
+
+}
