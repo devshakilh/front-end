@@ -55,7 +55,7 @@ const DashBoard = ({ users, loading }) => {
                 <img src={navImg5} className='navImg5' alt="" />
 
                 <div className='userId'>
-                    {users?.data && users.data.map(user => (
+                    {users && users.map(user => (
                         <div key={user.id} className='flex justify-between'>
                             <div className='flex gap-8 font-semibold text-[#323B4B] text-[18px]'>
                                 <p className='pt-6'>{user.id}</p>

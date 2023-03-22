@@ -8,16 +8,16 @@ import Pagination from './Pagination'
 
 
 const Users = () => {
-    const [users, setUsers] = useState({});
+    const [users, setUsers] = useState([]);
     const [loading, setLoading] = useState(false);
     const [currentPage, setCurrentPage] = useState(1);
-    const [usersPerPage] = useState(3);
+    const [usersPerPage, setUsersPerPage] = useState(2);
 
     useEffect(() => {
         const fetchUsers = async () => {
             setLoading(true);
             const res = await axios.get('https://reqres.in/api/users?page=2');
-            setUsers(res.data);
+            setUsers(res.data.data);
             setLoading(false);
         }
         fetchUsers();
@@ -33,8 +33,8 @@ const Users = () => {
         <div>
             <DashBoard users={currentUsers} loading={loading} />
             <Pagination
-                postsPerPage={usersPerPage}
-                totalPosts={users.length}
+                UsersPerPage={usersPerPage}
+                totalUsers={users.length}
                 paginate={paginate}
             />
         </div>
